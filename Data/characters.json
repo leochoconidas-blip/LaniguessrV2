@@ -1,0 +1,291 @@
+[
+    {
+        "id": 1,
+        "character": [
+            "Fujiwara Chika",
+            "Chika Fujiwara", "Chika"
+        ],
+        "anime": [
+            "Kaguya-sama: Love is War",
+            "Love is War",
+            "Kaguya-sama wa Kokurasetai", "Kaguya-sama", "Kaguyasama"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Chika.jpg"
+    },
+    {
+        "id": 2,
+        "character": [
+            "Shinozaki Rika", "Rika", "Shinozaki"
+        ],
+        "anime": [
+            "Sword Art Online", "Sword Art Online", "SAO"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Rika.jpg"
+    },
+    {
+        "id": 3,
+        "character": [
+            "Zero two", "Zero Two", "002"
+        ],
+        "anime": [
+            "Darling in the Franxx", "Darling in the FranXX", "DarlingintheFranxx"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/02.jpg"
+    },
+    {
+        "id": 4,
+        "character": [
+            "Masumi Sera", "Masumi"
+        ],
+        "anime": [
+            "Conan", "Detective Conan"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Masumi.jpg"
+    },
+    {
+        "id": 5,
+        "character": [
+            "Ako Suminoe", "Ako", "Suminoe"
+        ],
+        "anime": [
+            "Kiss X Sis", "Kiss x Sis", "KissXSis"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Ako.jpg"
+    },
+    {
+        "id": 6,
+        "character": [
+            "Nanami Momozono", "Nanami"
+        ],
+        "anime": [
+            "kamisamahajimemashita", "Kamisama Hajimemashita", "Kamisama Kiss", "Kamisama Hajimemashita"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Nanami.jpg"
+    },
+    {
+        "id": 7,
+        "character": [
+            "Tohru Honda", "Toru Honda", "Tohru"
+        ],
+        "anime": [
+            "Fruit Basket", "Fruits Basket", "FruitsBasket", "FruitBasket"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Tohru.jpg"
+    },
+    {
+        "id": 8,
+        "character": [
+            "Yomantwoo"
+        ],
+        "anime": [
+            "Dofus"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Yo.png"
+    },
+    {
+        "id": 9,
+        "character": [
+            "Bond Forger", "le chien dans Spy x Family", "Bond"
+        ],
+        "anime": [
+            "Spy x Family", "SpyXFamily", "Spy X Family", "SpyxFamily"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Bond.jpg"
+    },
+    {
+        "id": 10,
+        "character": [
+            "Hiyori Iki", "Hiyori"
+        ],
+        "anime": [
+            "Noragami"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Hiyori.jpg"
+    },
+    {
+        "id": 11,
+        "character": [
+            "Akane Kinoshita", "Akane"
+        ],
+        "anime": [
+            "My Love Story with Yamada-kun at Lv999",
+            "Yamada-kun to Lv999 no Koi wo Suru", "Yamada-kun to Lv999 no Koi wo Suru", "Yamada-kun Lv999"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Akane.jpg"
+    },
+    {
+        "id": 12,
+        "character": [
+            "Rajah", "Rajah the Tiger", "Raja", "Rhaja", "Rahja", "Le tigre dans Aladdin"
+        ],
+        "anime": [
+            "Aladdin"
+        ],
+        "difficulty": "hard",
+        "image": "image/hard/Rajah.jpg"
+    },
+    {
+        "id": 13,
+        "character": [
+            "Hiragi Kashima", "Horagi"
+        ],
+        "anime": [
+            "Given"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Hiragi.jpg"
+    },
+    {
+        "id": 14,
+        "character": [
+            "Juliet Fiamatta Arst de Capulet", "Lanysae", "Juliet", "Juliet de Capulet", "Juliet Capulet"
+        ],
+        "anime": [
+            "Romeo x Juliet"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Juliet.png"
+    },
+    {
+        "id": 15,
+        "character": [
+            "Mythra", "Hikari"
+        ],
+        "anime": [
+            "Xenoblade Chronicles 2", "Xenoblade 2"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Mythra.jpg"
+    },
+    {
+        "id": 16,
+        "character": [
+            "Megumi Kitagawa", "Megumi"
+        ],
+        "anime": [
+            "Suki tte li na yo", "Say I Love You"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Megumi.jpg"
+    },
+
+    {
+        "id": 17,
+        "character": [
+            "Asuka Mishima", "Mishima", "Asuka"
+        ],
+        "anime": [
+            "A town where you live", "A Town Where You Live", "A Town Where You Live", "Kimi no Iru Machi"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Asuka.jpg"
+    },
+
+    {
+        "id": 18,
+        "character": [
+            "Oogway", "Master Oogway"
+        ],
+        "anime": [
+            "Kung Fu Panda", "Kungfu Panda", "KungFu Panda"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/Oogway.jpg"
+    },
+
+    {
+        "id": 19,
+        "character": [
+            "Blush Mermaid"
+        ],
+        "anime": [
+            "Conan", "Detective Conan"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/Blush_Mermaid.jpg"
+    },
+
+    {
+        "id": 20,
+        "character": [
+            "Crush", "Crush the Sea Turtle"
+        ],
+        "anime": [
+            "Nemo", "Finding Nemo", "FindingNemo", "Trouver Nemo"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/Crush.jpg"
+    },
+
+    {
+        "id": 21,
+        "character": [
+            "Torute Rouge", "Tortue rouge"
+        ],
+        "anime": [
+            "Dofus"
+        ],
+        "difficulty": "secret",
+        "image": "image/Secret/Tortue_Dofus.png"
+    },
+
+    {
+        "id": 22,
+        "character": [
+            "Professeur Tournesol", "Professeur Tournesol", "Tournesol"
+        ],
+        "anime": [
+            "Tintin", "Les aventures de Tintin", "The Adventures of Tintin"
+        ],
+        "difficulty": "easy",
+        "image": "image/easy/Tournesol.png"
+    },
+
+    {
+        "id": 23,
+        "character": [
+            "Tsukimi Eiko", "Tsukimi", "Eiko"
+        ],
+        "anime": [
+            "Paripi Koumei", "Paripi Koumei", "Paripi Koumei"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Tsukimi.jpg"
+    },
+
+    {
+        "id": 22,
+        "character": [
+            "Tsubaki Sawabe", "Sawabe", "Tsubaki"
+        ],
+        "anime": [
+            "Your lie in April", "Your Lie in April", "Shigatsu wa Kimi no Uso"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Tsubaki.jpg"
+    },
+
+    {
+        "id": 22,
+        "character": [
+            "Frill Shiranui", "Shiranui", "Frill"
+        ],
+        "anime": [
+            "Oshi no ko", "Oshi no Ko", "Oshi no Ko"
+        ],
+        "difficulty": "medium",
+        "image": "image/Medium/Frill.jpg"
+    }
+
+]

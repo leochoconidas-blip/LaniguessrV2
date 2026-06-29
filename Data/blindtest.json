@@ -1,0 +1,224 @@
+[
+    {
+        "id": 1,
+        "title": [
+            "Kaze no Lalala", "Kaze no La La La", "Kaze no LaLaLa", "Op 12", "Opening 12"
+        ],
+        "anime": [
+            "Detective Conan", "Conan", "Case Closed", "Meitantei Conan", "Meitantei Konan", "Detective Conan: The Movie"
+        ],
+        "category": "opening",
+        "audio": "audio/opening/Conan 12 Kaze no Lalala.mp3"
+    },
+
+    {
+        "id": 2,
+        "title": [
+            "Button", "Button", "Op 1", "Opening 1"
+        ],
+        "anime": [
+            "reLIFE", "ReLIFE", "Re Life"
+        ],
+        "category": "opening",
+        "audio": "audio/opening/ReLIFE.mp3"
+    },
+
+    {
+        "id": 3,
+        "title": [
+            "Imakoko", "Ima Koko", "Op 1", "Opening 1", "Here and Now", "Here and now"
+        ],
+        "anime": [
+            "Tsukigakirei", "Tsuki ga kirei", "Tsuki Ga Kirei"
+        ], 
+        "category": "opening",
+        "audio":   "audio/opening/Tsukigakirei.mp3"
+    },
+
+    {
+        "id": 4,
+        "title": [
+            "Start line", "Start Line"
+        ],
+        "anime": [
+            "Suzuka"
+        ],
+        "category": "opening",
+        "audio": "audio/opening/Suzuka.mp3"
+    },
+
+    {
+        "id": 5,
+        "title": [
+            "Itoshii Hito e", "Itoshii Hito"
+        ],
+        "anime": [
+            "Seirei no Moribito", "Seirei no Moribito: Guardian of the Spirit", "Moribito", 
+            "Guardian of the Spirit", "Guardian of the sacred spirit", "Guardian of the Sacred Spirit"
+        ],
+        "category": "ending",
+        "audio": "audio/ending/Seirei no Moribito.mp3"
+    },
+
+    {
+        "id": 6,
+        "title": [
+            "Sweet & Sweet CHERRY", "Sweet Sweet Cherry", "Sweet and Sweet Cherry"
+        ],
+        "anime": [
+            "Golden Time", "Golden time"
+        ],
+        "category": "ending",
+        "audio": "audio/ending/Golden Time.mp3"
+    },
+
+    {
+        "id": 7,
+        "title": [
+            "High High High", "High high high"
+        ],
+        "anime": [
+            "Usagi Drop", "Usagi drop", "Bunny Drop", "Bunny drop"
+        ],
+        "category": "ending",
+        "audio": "audio/ending/Usagi Drop-High High High.mp3"
+    },
+
+    {
+        "id": 8,
+        "title": [
+            "ED 4", "Ending 4", "Rehearsal"
+        ],
+        "anime": [
+            "Cross Game", "Cross game"
+        ],
+        "category": "ending",
+        "audio": "audio/ending/Cross Game ED4.mp3"
+    },
+
+    {
+        "id": 9,
+        "title": [
+            "Glassy sky", "Glassy Sky"
+        ],
+        "anime": [
+            "Tokyo Ghoul", "Tokyo ghoul", "TokyoGhoul"
+        ],
+        "category": "ost",
+        "audio": "audio/ost/Tokyo_ghoul.mp3"
+    },
+
+    {
+        "id": 10,
+        "title": [
+            "A town with an ocean view", "A Town With An Ocean View"
+        ],
+        "anime": [
+            "Kiki", "Kiki's Delivery Service", "Kiki's Delivery Service", "Kiki's Delivery Service"
+        ],
+        "category": "ost",
+        "audio": "audio/ost/Kiki.mp3"
+    },
+
+    {
+        "id": 11,
+        "title": [
+            "Moon Prism Power, Make Up!", "Moon Prism Power, Make Up!", "Moon Prism Power, Make Up!", "Tranformation", 
+            "Moon Crystal Power, Make Up!", "Moon Crystal Power, Make Up!", "Moon Crystal Power, Make Up!", "Transformation",
+            "Moon Cosmic Power, Make Up!", "Moon Cosmic Power, Make Up!", "Moon Cosmic Power, Make Up!", "Transformation"
+        ],
+        "anime": [
+            "Sailor Moon", "Sailor moon", "SailorMoon", "SailorMoon Crystal"
+        ],
+        "category": "ost",
+        "audio": "audio/ost/Sailor Moon.mp3"
+    },
+
+    {
+        "id": 12,
+        "title": [
+            "Zero"
+        ],
+        "anime": [
+            "Ralph 2", "Les mondes de Ralph 2", "Ralph Breaks the Internet", "Ralph Breaks the Internet: Wreck-It Ralph 2",
+            "Wreck-It Ralph 2", "Wreck It Ralph 2", "Ralph Breaks the Internet: Wreck It Ralph 2", "Les Mondes de Ralph 2", 
+            "Les Mondes de Ralph 2", "Les mondes de Ralph 2"
+        ],
+        "category": "ost",
+        "audio": "audio/ost/Zero (RALPH BREAKS THE INTERNET OST) - Imagine Dragons.mp3"
+    },
+
+    {
+        "id": 13,
+        "title": [
+            "Main Theme", "Main theme", "Kaichou wa Maid-sama OST Main Theme"
+        ],
+        "anime": [
+            "Kaichou wa Maid-sama!", "Kaichou wa Maid-sama", "Kaichou wa Maid-sama", "Maid Sama!", "Maid Sama",
+            "Maid sama", "Maid-sama", "Maid-Sama", "Maidsama", "Kaichou wa Maidsama"
+        ],
+        "category": "ost",
+        "audio": "audio/ost/Kaichou wa Maid-sama OST Main Theme.mp3"
+    },
+
+    {
+        "id": 14,
+        "title": [
+            "Rosalina", "Harmonie"
+        ],
+        "anime": [
+            "Super Mario Galaxy", "Super Mario Galaxy", "Super Mario Galaxy 2", "Super Mario Galaxy 2", "Mario", "Super Mario"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Rosalina.mp3"
+    },
+
+    {
+        "id": 15,
+        "title": [
+            "Mei Tachibana", "Mei", "Tachibana"
+        ],
+        "anime": [
+            "Say I love you", "Suki tte li na yo", "Suki tte Ii na yo", "Suki tte Ii na yo!", "Say I love you!", "Say I Love You!"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/say-i-love-you.mp3"
+    },
+
+    {
+        "id": 16,
+        "title": [
+            "Sylveon", "Nymphalie", "Nymphali"
+        ],
+        "anime": [
+            "Pokemon", "Pokemon", "Pokémon", "Pokémon XY", "Pokémon X and Y", "Pokémon X & Y"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Sylveon2.mp3"
+    },
+
+    {
+        "id": 17,
+        "title": [
+            "Opening 1", "Op 1", "Touch Off", "Touch off"
+        ],
+        "anime": [
+            "The Promised Neverland", "The promised neverland", "TPNL"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/Fire.mp3"
+    },
+
+    {
+        "id": 18,
+        "title": [
+            "ZSR v2 Engine", "ZSR v2 engine", "ZSR V2 Engine"
+        ],
+        "anime": [
+            "Rocket League", "Rocket league", "RL"
+        ],
+        "category": "secret",
+        "audio": "audio/secret/ZSR v2 Engine.mp3"
+    }
+
+]
